@@ -1,0 +1,5 @@
+/backend/.env
+/backend/product_db/faiss_index.bin
+/backend/product_db/data.json
+/backend/products.db
+/backend/__pycache__

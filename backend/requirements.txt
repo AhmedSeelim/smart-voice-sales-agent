@@ -1,0 +1,10 @@
+livekit
+livekit-agents
+livekit-plugins-google
+sentence-transformers
+torch
+faiss-cpu
+numpy
+python-dotenv
+fastapi
+uvicorn
