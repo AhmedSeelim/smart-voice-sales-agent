@@ -3,3 +3,5 @@
 /backend/product_db/data.json
 /backend/products.db
 /backend/__pycache__
+/frontend/.env
+/frontend/node_modules/
